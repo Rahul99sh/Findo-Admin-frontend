@@ -1,0 +1,4 @@
+.main-content {
+  flex: 1;
+  padding: 20px; /* Add margin-left to main-content to compensate for the width of the sidebar */
+}
